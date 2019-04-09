@@ -62,3 +62,7 @@ if ($validation->validate($_POST) === true) {
 var_dump($validation->validate($_POST));
 exit;
 ```
+
+# License
+
+This software is released under the MIT License, see LICENSE.
